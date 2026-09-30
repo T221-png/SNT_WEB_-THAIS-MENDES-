@@ -1,0 +1,20 @@
+body {
+    background-color: pink;
+    font-family: Arial;
+	border: 1px solid black;
+	font-family: Arial;
+	
+
+	
+}
+button {
+  background-color: VIOLET; /* Couleur de fond (bleu) */
+  color: ROSE;            /* Couleur du texte (blanc) */
+  border: none;              /* Supprime la bordure par défaut */
+  padding: 15px 25px;        /* Ajoute un peu d'espace intérieur */
+  border-radius: 10px;        /* Arrondit les coins */
+}
+
+p {
+  color: red;
+}
